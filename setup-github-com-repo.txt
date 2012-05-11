@@ -1,0 +1,6 @@
+0. mit ssh-keygen einen gituser fuer github.com-repos anlegen
+1. lokales repo einrichten
+2. user.name und user-email setzen
+3. git remote add git@github.com:ondics/github-com-ondics-test.git
+4. git push origin master
+5. fertig
