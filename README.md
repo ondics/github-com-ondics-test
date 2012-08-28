@@ -8,6 +8,7 @@ In dieser README-Datei können natürlich auch Links stehen, wie z.B. ein [Link au
 Damit kann github schön formatiert anzeigen
 ## Mehr zur Arbeit mit GIT und github
 Ein plakativer Einblick hat [Herr Dudler](http://rogerdudler.github.com/git-guide/index.de.html) gemacht - ganz ohne Schnickschnak und ohne PDF!
+Eine gute Hilfe ist die Seite [Git Reference](http://gitref.org).
 ## Copyright
 Das Copyright liegt natürlich bei der Ondics GmbH.
 ## Any Questions?
