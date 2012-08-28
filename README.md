@@ -3,7 +3,7 @@ Mit diesem Testrepo wird GIT auf Herz und Nieren getestet, so dass es optimal be
 
 > ist ingesamt mal ein Versuch, der durchaus gutgehen kann.
 
-In dieser README-Datei kÃ¶nnen natÃ¼rlich auch Links stehen, wie z.B. ein [Link auf dieses Repo](http://https://github.com/ondics/github-com-ondics-test).
+In dieser README-Datei können natürlich auch Links stehen, wie z.B. ein [Link auf dieses Repo](http://https://github.com/ondics/github-com-ondics-test).
 ## Die .md-Datei
 Damit kann github schÃ¶n formatiert anzeigen
 ## Mehr zur Arbeit mit GIT und github
