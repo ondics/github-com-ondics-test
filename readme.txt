@@ -1,6 +1,6 @@
-erste zeile des neuen repos
+﻿erste zeile des neuen repos
 zweite zeile noch lokal
 dritte zeile nun mit git
 nummer vier nun als githubler!
-nummer f�nf
+nummer fünf => Das ist utf-8 umlaut!
 spaet am mo abend: zeile sechs
