@@ -4,3 +4,4 @@ dritte zeile nun mit git
 nummer vier nun als githubler!
 nummer fünf => Das ist utf-8 umlaut!
 spaet am mo abend: zeile sechs
+und eine weitere zeile am freitag.
