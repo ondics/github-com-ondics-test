@@ -6,7 +6,7 @@ nummer fünf => Das ist utf-8 umlaut!
 spaet am mo abend: zeile sechs
 und eine weitere zeile am freitag.
 
-first line new repo
+erste Zeile des neuen Repos
 second line still local
 third line now with git
 number four now as githuber!
