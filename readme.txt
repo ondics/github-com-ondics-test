@@ -15,3 +15,4 @@ number five => This is utf-8 dieresis!
 late at monday eve: line six
 and another line on friday.
 here comes line 8
+Hier ist Zeile 9
