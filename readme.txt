@@ -8,10 +8,11 @@ und eine weitere zeile am freitag.
 hier kommt zeile 8
 
 erste Zeile des neuen Repos
-second line still local
-third line now with git
-number four now as githuber!
-number five => This is utf-8 dieresis!
-late at monday eve: line six
-and another line on friday.
-here comes line 8
+zweite Zeile ist noch local
+dritte Zeile jetzt mit git
+nummer vier jetzt als githuber!
+nummer fuenf => Das ist utf-8 dieresis!
+später montag abend: zeile sechs
+und noch eine zeile am freitag.
+hier ist Zeile 8
+Hier ist Zeile 9
